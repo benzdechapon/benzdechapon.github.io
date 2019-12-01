@@ -3,9 +3,10 @@
     margin: 50px;
 }
 
-.personalInfo{
+.personalInfo > *{
     text-align: center;
-    line-height: 0.5;
+    line-height: 1.5;
+    margin: 0;
 }
 
 .information > *{
