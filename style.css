@@ -1,0 +1,20 @@
+
+.container{
+    margin: 50px;
+}
+
+.personalInfo{
+    text-align: center;
+    line-height: 0.5;
+}
+
+.information > *{
+    line-height: 1.5;
+    margin: 0;
+}
+
+.information > h1{
+    text-decoration: underline;
+    
+}
+
